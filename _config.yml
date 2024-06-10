@@ -12,7 +12,7 @@ title                    : "Dinh Ngoc Tuan / Homepage"
 title_separator          : "-"
 name                     : &name "Dinh Ngoc Tuan"
 description              : &description "personal description"
-url                      : https://tuanrobotics.github.io/
+url                      : "https://tuanrobotics.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/TuanRobotics/TuanRobotics.github.io"
 
