@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I received the bachelor's degrerobotics in Mechatronics and robotics from the ITMO University, Saint Petersburg, Russia. My research interests include optimal control, Adaptive Control, Reinforcement Learning(ADP), deep reinforcement learning (DRL), and autonomous driving. 
+I received the bachelor's degree in Mechatronics and robotics from the ITMO University, Saint Petersburg, Russia. My research interests include Optimal control, Adaptive Control, Reinforcement Learning(RL), Deep reinforcement learning (DRL), Perception for Robotics. 
 
 `Please feel free to contact me at: dinhngoctuan6789@gmail.com`
 
